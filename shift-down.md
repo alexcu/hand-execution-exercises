@@ -1,8 +1,8 @@
 # Procedure: `???`
 
 - __Parameters:__
-- 	- `data`, an array of Integer;
-	- `sz`, an Integer (C only);
+  - `data`, an array of Integer;
+  - `sz`, an Integer (C only);
 
 ## Steps
 
@@ -11,8 +11,8 @@
 
 ### Hand Execution Data
 
-	data: [3, 1, 5, 10]
-	
+  data: [3, 1, 5, 10]
+
 ---
 
-	sz: 4
+  sz: 4

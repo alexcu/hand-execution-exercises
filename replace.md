@@ -1,11 +1,11 @@
 # Function: `???`
 
 - __Returns:__ Boolean
-- __Parameters:__ 
- 	- `data`, an array of Integer passed in by reference;
- 	- `sz`, an Integer (C only);
-	- `num`, an Integer;
-	- `new`, an Integer
+- __Parameters:__
+  - `data`, an array of Integer passed in by reference;
+  - `sz`, an Integer (C only);
+  - `num`, an Integer;
+  - `new`, an Integer
 
 ## Steps
 
@@ -15,12 +15,12 @@
 
 ### Hand Execution Data
 
-	data: [1, 4, 1, 2, 5, 1, 8]
-	
----
-	
-	sz: 7
-	
+  data: [1, 4, 1, 2, 5, 1, 8]
+
 ---
 
-	num: 1
+  sz: 7
+
+---
+
+  num: 1

@@ -2,8 +2,8 @@
 
 - __Returns:__ Integer
 - __Parameters:__
-	- `data`, an array of Integer;
-	- `sz`, an Integer (C only)
+  - `data`, an array of Integer;
+  - `sz`, an Integer (C only)
 
 
 ## Steps
@@ -12,6 +12,6 @@
 
 ### Hand Execution Data
 
-	data: [2, 2, 4, 2]
+  data: [2, 2, 4, 2]
 ---
-	sz: 4
+  sz: 4

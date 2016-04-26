@@ -2,8 +2,8 @@
 
 - __Returns:__ Boolean
 - __Parameters:__
- 	- `data`, an array of Integer;
-	- `sz`, an Integer (C only)
+  - `data`, an array of Integer;
+  - `sz`, an Integer (C only)
 
 ## Steps
 
@@ -13,6 +13,6 @@
 
 ### Hand Execution Data
 
-	data: [101, 24, 33, 119]
+  data: [101, 24, 33, 119]
 ---
-	sz: 4
+  sz: 4

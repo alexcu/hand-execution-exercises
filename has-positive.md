@@ -1,9 +1,9 @@
 # Function: `???`
 
 - __Returns:__ Integer
-- __Parameters:__ 
-	- `data`, an array of Integer;
-	- `sz`, an Integer (C only)
+- __Parameters:__
+  - `data`, an array of Integer;
+  - `sz`, an Integer (C only)
 
 ## Steps
 
@@ -13,8 +13,8 @@
 
 ### Hand Execution Data
 
-	data: [-99, -12, 32, 2]
+  data: [-99, -12, 32, 2]
 
---- 
-	
-	sz: 4
+---
+
+  sz: 4

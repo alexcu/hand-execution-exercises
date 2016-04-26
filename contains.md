@@ -1,10 +1,10 @@
 # Function: `???`
 
 - __Returns:__ Boolean
-- __Parameters:__ 
- 	- `data`, an array of Integer;
-	- `sz`, an Integer (C only);
-	- `num`, an Integer
+- __Parameters:__
+  - `data`, an array of Integer;
+  - `sz`, an Integer (C only);
+  - `num`, an Integer
 
 ## Steps
 
@@ -14,12 +14,12 @@
 
 ### Hand Execution Data
 
-	data: [99, 24, 15, 11]
-	
----
-	
-	sz: 4
-	
+  data: [99, 24, 15, 11]
+
 ---
 
-	num: 15
+  sz: 4
+
+---
+
+  num: 15
