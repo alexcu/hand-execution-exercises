@@ -10,7 +10,7 @@ it does.
 
 ### Return Type
 
-The function returns an **Integer** value.
+The function returns an **Boolean** value.
 
 ### Parameters
 
